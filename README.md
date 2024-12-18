@@ -1,4 +1,4 @@
-# Welcome to Techathon 2024: [TeamName]
+# Welcome to Techathon 2024: Data Dominators
 
 ---
 
